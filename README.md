@@ -1,9 +1,10 @@
 <div align="center">
-  <img height="200" src="./user (2).gif" width=1280  />
+  <img height="200" src="src/user (2).gif" width=1280   />
 </div>
 
 # Hi there! I'm Mahdi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
+---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
@@ -15,7 +16,10 @@
 
 - ⚡ Fun fact: ...
 
-## 🛠 Technologies I Use  
+## 🛠 Technologies I Use
+
+---
+
 ###
 
 <div align="left">
@@ -45,18 +49,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-</div>
 
 ###
 
-
 ---
 
-
 ## 📫 How to reach me 
+---
 ###
 
 <div align="left">
@@ -77,6 +76,7 @@
 </div>
 
 ###
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahdiMoushekhian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
