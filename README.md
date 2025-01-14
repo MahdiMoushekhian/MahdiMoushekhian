@@ -2,11 +2,13 @@
   <img height="200" src="src/user (2).gif" width=1280   />
 </div>
 
-# Hi there! I'm Mahdi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+**Hi there!** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+
+- 👋 Hi, I’m Mahdi Moushekhian
 
 - 👀 I’m interested in data analysis, machine learning
 
@@ -16,7 +18,7 @@
 
 - ⚡ Fun fact: ...
 
-## 🛠 Technologies I Use
+**🛠 Technologies I Use**
 
 ---
 
@@ -54,15 +56,14 @@
 
 ---
 
-## 📫 How to reach me 
+**📫 How to reach me**
 ---
 ###
 
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://discord.com/moushekh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
 </div>
