@@ -1,26 +1,24 @@
 <div align="center">
-  <img height="200" src="src/user (2).gif" width=1280   />
+  <img height="320" src="src/banner.gif" width=1280   />
 </div>
 
-**Hi there!** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> 
 ---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 👋 Hi, I’m Mahdi Moushekhian
+- 👀 I’m Mahdi, a data enthusiast.
 
-- 👀 I’m interested in data analysis, machine learning
+- 🌱 I’m currently diving deep into everything related to data.
 
-- 🌱 I’m currently diving deep into everything related to data
+- 📊 I’m passionate about data analysis and machine learning.
 
-- 💞️ I’m looking to collaborate on ...
-
+- 💡 I’m looking to collaborate on innovative projects that solve real-world problems.
+<!---
 - ⚡ Fun fact : ...
+--->
 
-
-**🛠 Technologies I Use**
-
+## 🛠 Technologies I Use
 ---
 
 ###
@@ -72,8 +70,7 @@
 
 ###
 
-**📫 How to reach me**
-
+## 📫 How to reach me
 ---
 ###
 
