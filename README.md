@@ -1,25 +1,25 @@
 <div align="center">
-  <img height="320" src="src/banner.gif" width=1280   />
+  <img height="320" src="src/banner1.gif" width=1280   />
 </div>
 
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> 
----
+<h1> Hi there! 👋 </h1>
+
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 👀 I’m Mahdi, a data enthusiast.
+- 👀 I’m Mahdi.
 
 - 🌱 I’m currently diving deep into everything related to data.
 
-- 📊 I’m passionate about data analysis and machine learning.
+- 🚀 I’m passionate about Data science and Machine learning.
 
 - 💡 I’m looking to collaborate on innovative projects that solve real-world problems.
 <!---
 - ⚡ Fun fact : ...
 --->
 
-## 🛠 Technologies I Use
----
+<h1> 🛠 Technologies I Use </h1>
+
 
 ###
 
@@ -46,33 +46,31 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 
 ###
 
----
+<!-- ---
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MahdiMoushekhian/count.svg?"  />
 </div>
 
-###
+### -->
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahdiMoushekhian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahdiMoushekhian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div style="display:flex;">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahdiMoushekhian&layout=donut&theme=nord&hide_title=true&hide_border=true&text_color=B3B3B3&bg_color=00000000" alt="MahdiMoushekhian"  />
+<img src="https://github-readme-stats.vercel.app/api?username=MahdiMoushekhian&theme=nord&hide_title=true&hide_border=true&text_color=B3B3B3&bg_color=00000000&rank_icon=github&hide=issues,prs"  alt="MahdiMoushekhian"  />
 </div>
 
 ###
 
-## 📫 How to reach me
----
-###
+<h1> 📫 How to reach me </h1>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -81,7 +79,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
 </div>
 
-###
 
 
 
