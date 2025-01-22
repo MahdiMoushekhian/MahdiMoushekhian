@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="320" src="src/banner1.gif" width=1280   />
+  <img height="320" src="src/new_banner.png"    />
 </div>
 
 <h1> Hi there! 👋 </h1>
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 👀 I’m Mahdi.
 
@@ -69,6 +69,7 @@
 </div>
 
 ###
+---
 
 <h1> 📫 How to reach me </h1>
 
