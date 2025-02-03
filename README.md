@@ -9,7 +9,7 @@
 
 - 👀 I’m a Computer Engineer .
 
-- 🌱 Currently exploring the depths of Data.
+- 🌱 Currently exploring the depths of Data world.
 
 - 🚀 Passionate about Data science and Machine learning.
 
