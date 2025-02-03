@@ -1,24 +1,25 @@
 <div align="center">
-  <img height="320" src="src/new_banner.png"    />
+  <img height="320" src="src/new_banner.png"/>
 </div>
 
-<h1> Hi there! 👋 </h1>
+<h1 align="center">👋 Hi, I'm Mahdi !  </h1>
+
+## <img src="src/Developer.gif" width="50" /> About Me
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 👀 I’m a Computer Engineer .
 
-- 👀 I’m Mahdi.
+- 🌱 Currently exploring the depths of Data.
 
-- 🌱 I’m currently diving deep into everything related to data.
+- 🚀 Passionate about Data science and Machine learning.
 
-- 🚀 I’m passionate about Data science and Machine learning.
+- 💡 Open to collaboration on innovative, real-world projects.
 
-- 💡 I’m looking to collaborate on innovative projects that solve real-world problems.
-<!---
-- ⚡ Fun fact : ...
---->
+- ⚡ Fun fact : Fixer of everything - gadgets, toys, cars... you name it !
 
-<h1> 🛠 Technologies I Use </h1>
+</p>
+
+## 🛠  Tech Stack 
 
 
 ###
@@ -53,14 +54,6 @@
 
 ###
 
-<!-- ---
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MahdiMoushekhian/count.svg?"  />
-</div>
-
-### -->
 ---
 
 <div style="display:flex;">
@@ -71,20 +64,7 @@
 ###
 ---
 
-<h1> 📫 How to reach me </h1>
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-</div>
-
-
-
-
-
-
+<!-- ## 📫 How to reach me :  -->
 
 <!---
 
